@@ -1,0 +1,15 @@
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\bin\Debug\net5.0\4th-Part-2.exe
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\bin\Debug\net5.0\4th-Part-2.deps.json
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\bin\Debug\net5.0\4th-Part-2.runtimeconfig.json
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\bin\Debug\net5.0\4th-Part-2.runtimeconfig.dev.json
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\bin\Debug\net5.0\4th-Part-2.dll
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\bin\Debug\net5.0\ref\4th-Part-2.dll
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\bin\Debug\net5.0\4th-Part-2.pdb
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\obj\Debug\net5.0\4th-Part-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\obj\Debug\net5.0\4th-Part-2.AssemblyInfoInputs.cache
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\obj\Debug\net5.0\4th-Part-2.AssemblyInfo.cs
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\obj\Debug\net5.0\4th-Part-2.csproj.CoreCompileInputs.cache
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\obj\Debug\net5.0\4th-Part-2.dll
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\obj\Debug\net5.0\ref\4th-Part-2.dll
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\obj\Debug\net5.0\4th-Part-2.pdb
+C:\Users\mhill\Desktop\AoC2023\4th-Part-2\obj\Debug\net5.0\4th-Part-2.genruntimeconfig.cache

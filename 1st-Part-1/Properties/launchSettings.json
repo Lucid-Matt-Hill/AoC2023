@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "1st-Part-1": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
